@@ -1,7 +1,7 @@
 # English_Premier_League_2020-21
-Premier League analysis for season 2020-21 based on data downloaded from [Kaggle.com](kaggle.com).
+Analysis of the Premier League for season 2020-21 based on data downloaded from [Kaggle.com](https://www.kaggle.com).
 
-Please feel free to contact me and check out more projects of mine: [Mariusz Borycki](mariuszborycki.com)
+Please feel free to contact me and check out more projects of mine: [Mariusz Borycki](https://www.mariuszborycki.com)
 
 ## Context:
 
@@ -10,23 +10,23 @@ This dataset is a collection of basic but crucial statistics of the English Prem
 
 ## Data source:
 
-Dataset author: Rajat Chaudhari
-Dataset source: https://www.kaggle.com/rajatrc1705/english-premier-league202021
+- Dataset author: Rajat Chaudhari
+- Dataset source: https://www.kaggle.com/rajatrc1705/english-premier-league202021
 
  
 ## Columns description:
 
-**Position:** Each player has a certain position, in which he plays regularly. The position in this dataset are, FW - Forward, MF - Midfield, DF - Defensive, GK - Goalkeeper.
-**Starts:** The number of times the player was named in the starting 11 by the manager.
-**Mins:** The number of minutes played by the player.
-**Goals:** The number of Goals scored by the player.
-**Assists:** The number of times the player has assisted other player in scoring the goal.
-**Passes_Attempted:** the number of passes attempted by the player.
-**PercPassesCompleted:** The number of passes that the player accurately passed to his teammate.
-**xG:** Expected number of goals from the player in a match.
-**xA:** Expected number of assists from the player in a match.
-**Yellow_Cards:** The players get a yellow card from the referee for indiscipline, technical fouls, or other minor fouls.
-**Red Cards:** The players get a red card for accumulating 2 yellow cards in a single game, or for a major foul.
+- **Position:** Each player has a certain position, in which he plays regularly. The position in this dataset are, FW - Forward, MF - Midfield, DF - Defensive, GK - Goalkeeper.
+- **Starts:** The number of times the player was named in the starting 11 by the manager.
+- **Mins:** The number of minutes played by the player.
+- **Goals:** The number of Goals scored by the player.
+- **Assists:** The number of times the player has assisted other player in scoring the goal.
+- **Passes_Attempted:** the number of passes attempted by the player.
+- **PercPassesCompleted:** The number of passes that the player accurately passed to his teammate.
+- **xG:** Expected number of goals from the player in a match.
+- **xA:** Expected number of assists from the player in a match.
+- **Yellow_Cards:** The players get a yellow card from the referee for indiscipline, technical fouls, or other minor fouls.
+- **Red Cards:** The players get a red card for accumulating 2 yellow cards in a single game, or for a major foul.
 
  
 ## My objectives:
