@@ -1,5 +1,5 @@
 # English_Premier_League_2020-21
-Analysis of the Premier League for season 2020-21 based on data downloaded from [Kaggle.com](https://www.kaggle.com).
+Analysis of the Premier League for season 2020-21 based on data downloaded from [Kaggle.com](https://www.kaggle.com/mariuszborycki/english-premier-league-2020-21-analysis).
 
 Please feel free to contact me and check out more projects of mine: [Mariusz Borycki](https://www.mariuszborycki.com)
 
